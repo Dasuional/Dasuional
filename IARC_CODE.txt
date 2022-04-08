@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IARC SUPREMACY</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+    <div class="item item1">
+grid-template-rows:13px 133px 133px;
+        <img src="https://images.meesho.com/images/products/29344054/jfdpq_512.jpg">
+    </div>
+    <div class="item ">
+        <h3>
+            unique Attractive Men hoes<hr>
+        </h3>
+        <h2>
+           &nbsp; $47.34 <strong><em>  ---->8% off</em></strong>
+        </h2>
+        <h4>
+           &nbsp;&nbsp; $2 discount on 1st order
+        </h4><hr>
+       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>&nbsp;&nbsp;
+         <br><br>rating is 3 
+         <form action="backend.php">
+             <div>
+               <br>&nbsp;&nbsp; <label for="mysize">select size</label>
+                <select name="select size" id="mysize">
+                    <option value="none">none</option>
+                    <option value="IND6">IND6</option>
+                <option value="IND7">IND7</option>
+                <option value="IND8">IND8</option>
+                <option value="IND9">IND9</option>
+                </select>                    
+             </div>
+         </form><hr>
+         <h2>Description or Product Detail</h2>
+         <p id="firstpara">
+            Name : Unique Attractive Men Casual Shoes<br>
+            Material : Mesh<br>
+            Sole Material : Eva<br>                
+            Fastening & Back Detail : Lace-Up<br>                
+            Multipack : 1<br>                
+            Sizes :IND-7<br>                
+            Country of Origin : India
+         </p>
+    </div>
+</div>
+<div class="container">
+    <div class="item item1">
+grid-template-rows:13px 133px 133px;
+        <img src="https://images.meesho.com/images/products/17350730/73194_512.jpg">
+    </div>
+    <div class="item ">
+        <h3>
+            sports shoes boys & mens<hr>
+        </h3>
+        <h2>
+           &nbsp; $45.34 <strong><em>  ---->10% off</em></strong>
+        </h2>
+        <h4>
+           &nbsp;&nbsp; $3 discount on 1st order
+        </h4><hr>
+       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span>&nbsp;&nbsp;
+         <br><br>rating is 4 
+         <form action="backend.php">
+             <div>
+               <br>&nbsp;&nbsp; <label for="mysize">select size</label>
+                <select name="select size" id="mysize">
+                    <option value="none">none</option>
+                    <option value="IND6">IND6</option>
+                <option value="IND7">IND7</option>
+                <option value="IND8">IND8</option>
+                <option value="IND9">IND9</option>
+                <option value="IND10">IND10</option>
+            </select>                    
+             </div>
+         </form><hr>
+         <h2>Description or Product Detail</h2>
+         <p id="firstpara">
+            Name : sports shoes boys & mens<br>
+            Material : Mesh<br>
+            Sole Material : Rubber<br>
+            Fastening & Back Detail : Lace-Up<br>
+            Pattern : Printed<br>
+            Sizes :IND-6<br>
+            Country of Origin : India<br>
+         </p>
+    </div>
+</div>
+<div class="container">
+    <div class="item item1">
+grid-template-rows:13px 133px 133px;
+        <img src="https://images.meesho.com/images/products/28701556/c33b1_512.jpg">
+    </div>
+    <div class="item ">
+        <h3>
+            Unique Fashionable Men Sports Shoes<hr>
+        </h3>
+        <h2>
+           &nbsp; $65.34 <strong><em>  ---->6% off</em></strong>
+        </h2>
+        <h4>
+           &nbsp;&nbsp; $2.5 discount on 1st order
+        </h4><hr>
+       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>&nbsp;&nbsp;
+         <br><br>rating is 5 
+         <form action="backend.php">
+             <div>
+               <br>&nbsp;&nbsp; <label for="mysize">select size</label>
+                <select name="select size" id="mysize">
+                    <option value="none">none</option>
+                    <option value="IND6">IND6</option>
+                <option value="IND7">IND7</option>
+                <option value="IND8">IND8</option>
+                <option value="IND9">IND9</option>
+                <option value="IND10">IND10</option>
+                <option value="IND11">IND11</option>
+            </select>                    
+             </div>
+         </form><hr>
+         <h2>Description or Product Detail</h2>
+         <p id="firstpara">
+            Name : Unique Fashionable Men Sports Shoes<br>
+            Material : Mesh<br>
+            Sole Material : Rubber<br>
+            Fastening & Back Detail : Lace-Up<br>
+            Pattern : Woven Design<br>            
+            Sizes :IND-6 (Foot Length Size : 24.1 cm)<br>
+            IND-7 (Foot Length Size : 25.1 cm)<br>
+            IND-8 (Foot Length Size : 25.9 cm)<br>
+            IND-9 (Foot Length Size : 26.7 cm)<br>
+            IND-10 (Foot Length Size : 27.6 cm)<br>
+            IND-11 (Foot Length Size : 28.4 cm)<br>
+            Country of Origin : India<br>
+         </p>
+    </div>
+</div>
+<div class="container">
+    <div class="item item1">
+grid-template-rows:13px 133px 133px;
+        <img src="https://images.meesho.com/images/products/80761427/2izu5_512.jpg">
+    </div>
+    <div class="item ">
+        <h3>
+            Sports Shoes<hr>
+        </h3>
+        <h2>
+           &nbsp; $35.34 <strong><em>  ---->5% off</em></strong>
+        </h2>
+        <h4>
+           &nbsp;&nbsp; $4.3 discount on 1st order
+        </h4><hr>
+       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star "></span>
+        <span class="fa fa-star "></span>&nbsp;&nbsp;
+         <br><br>rating is 3
+         <form action="backend.php">
+             <div>
+               <br>&nbsp;&nbsp; <label for="mysize">select size</label>
+                <select name="select size" id="mysize">
+                    <option value="none">none</option>
+                    <option value="IND6">IND6</option>
+                <option value="IND7">IND7</option>
+                <option value="IND8">IND8</option>
+                <option value="IND9">IND9</option>
+                <option value="IND10">IND10</option>
+            </select>                    
+             </div>
+         </form><hr>
+         <h2>Description or Product Detail</h2>
+         <p id="firstpara">
+            Name : Sports Shoes<bR>
+            Material : EVA<bR>
+            Sole Material : EVA<bR>
+            Fastening & Back Detail : Lace-Up<bR>
+            Pattern : Solid<bR>
+            Sizes IND-6, IND-7, IND-8, IND-9, IND-10<bR>
+            Country of Origin : India
+         </p>
+    </div>
+</div>
+<div class="container">
+    <div class="item item1">
+grid-template-rows:13px 133px 133px;
+        <img src="https://images.meesho.com/images/products/74462819/58a6t_512.jpg">
+    </div>
+    <div class="item ">
+        <h3>
+            Unique Fashionable Men Sports Shoes<hr>
+        </h3>
+        <h2>
+           &nbsp; $37.34 <strong><em>  ---->9% off</em></strong>
+        </h2>
+        <h4>
+           &nbsp;&nbsp; $1 discount on 1st order
+        </h4><hr>
+       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star "></span>
+        <span class="fa fa-star "></span>&nbsp;&nbsp;
+         <br><br>rating is 3
+         <form action="backend.php">
+             <div>
+               <br>&nbsp;&nbsp; <label for="mysize">select size</label>
+                <select name="select size" id="mysize">
+                    <option value="none">none</option>
+                    <option value="IND6">IND6</option>
+                <option value="IND7">IND7</option>
+                <option value="IND8">IND8</option>
+                <option value="IND9">IND9</option>
+                <option value="IND10">IND10</option>
+            </select>                    
+             </div>
+         </form><hr>
+         <h2>Description or Product Detail</h2>
+         <p id="firstpara">
+            Name : Unique Fashionable Men Sports Shoes<BR>
+            Material : Mesh<BR>
+            Sole Material : Rubber<BR>
+            Fastening & Back Detail : Lace-Up<BR>
+            Pattern : Printed<BR>
+            Multipack : 1<BR>
+            Sizes : IND-6, IND-7, IND-8, IND-9, IND-10<BR>
+            Country of Origin : India
+         </p>
+    </div>
+</div>
+ 
+</body>
+</html>
