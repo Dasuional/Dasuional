@@ -24,7 +24,6 @@ Screenshots
 Technologies Used
     HTML5
     CSS3
-    JavaScript
 
 Setup Instructions
     Clone the repository:
