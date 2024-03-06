@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+Shoes Shopping Website Design
+Welcome to our Shoes Shopping Website! This project is a static webpage designed to showcase a variety of shoes and facilitate online shopping for footwear enthusiasts.
 
-You can use the [editor on GitHub](https://github.com/Dasuional/Dasuional/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Table of Contents:
+      Features
+      Screenshots
+      Technologies Used
+      Setup Instructions
+      Usage
+      Contributing
+      
+Features:-
+    Browse through a collection of stylish and trendy shoes.
+    Filter shoes based on categories, brands, sizes, colors, etc.
+    View detailed information about each shoe, including images, descriptions, prices, and available sizes.
+    Add shoes to a shopping cart for purchase.
+    Checkout process with secure payment options.
+    Responsive design for seamless browsing on desktop and mobile devices.
+Screenshots
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+   A basic look of my Web-design
+  ![Screenshot 2024-03-06 223632](https://github.com/Dasuional/Dasuional/assets/103253038/400e2373-4bfa-4289-a38b-ff9281da2057)
 
-### Markdown
+Technologies Used
+    HTML5
+    CSS3
+    JavaScript
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Setup Instructions
+    Clone the repository:
+    git clone https://github.com/yourusername/shoes-shopping-website.git
+    
+    Navigate to the project directory:
+    cd shoes-shopping-website
+    
+    Open index.html in your web browser to view the website locally.
 
-```markdown
-Syntax highlighted code block
+Usage
+    Visit the live website here .
+    Browse through the available shoe collection.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dasuional/Dasuional/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Contributing
+    Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+            Fork the repository.
+            Create a new branch (git checkout -b feature/new-feature).
+            Make your changes and commit them (git commit -am 'Add new feature').
+            Push to the branch (git push origin feature/new-feature).
+            Create a new pull request.
