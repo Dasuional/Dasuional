@@ -36,7 +36,7 @@ Setup Instructions
     Open index.html in your web browser to view the website locally.
 
 Usage
-    Visit the live website here .
+    Visit the live website here "https://dasuional.github.io/Dasuional/".
     Browse through the available shoe collection.
 
 Contributing
